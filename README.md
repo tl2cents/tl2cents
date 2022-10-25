@@ -25,13 +25,11 @@
 
   <br/><br/>
 
-  [![Tlecents's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tl2cents&show_icons=true)](https://github.com/tl2cents)
+  [![tlecents's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tl2cents&show_icons=true)](https://github.com/tl2cents)
 
   <br/>
 
   <br/>
-
-  <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tl2cents&show_icons=true)
 
