@@ -23,13 +23,9 @@
 <hr>
 <h2>😴 Status</h2>
 
-<br/><br/>
-
 [![tlecents's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tl2cents&show_icons=true)](https://github.com/tl2cents)
 
-<br/>
 
-<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tl2cents&show_icons=true)
 
