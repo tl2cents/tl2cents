@@ -16,7 +16,7 @@
 
 
 
-### Learning
+### :fire:  Learning
 
 - :fireworks: &nbsp; Rust | Android
 - :tea: &nbsp; Typst 
@@ -46,4 +46,3 @@
 
 
 <hr>
-
