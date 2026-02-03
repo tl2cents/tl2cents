@@ -17,7 +17,7 @@
 <hr>
 <h2>😴 Status</h2>
 
-[![tlecents's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tl2cents&show_icons=true)](https://github.com/tl2cents)
+[![tl2cents's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tl2cents&show_icons=true)](https://github.com/tl2cents)
 
 
 
